@@ -27,10 +27,12 @@ Projet réalisé dans le cadre du bootcamp/Network and services.
 - Réalisé par : Nadia BENBOUALI
 
 ## Live version
- Démo en ligne : https://umsoumeya.github.io/build-simple-network/
+ Démo en ligne : https://umsoumeya.github.io/PT-Build_simple_Network/
+
 
 ## Source code
- Dépôt GitHub : https://github.com/Umsoumeya/build-simple-network
+ Dépôt GitHub : https://github.com/Umsoumeya/PT-Build_simple_Network
+
 
 ## Pending / To-do
 - [ ] Ajouter un schéma réseau explicatif
